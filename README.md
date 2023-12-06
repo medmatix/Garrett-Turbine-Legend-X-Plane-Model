@@ -11,4 +11,4 @@ The static and printable models are available to my subscribing supporters on [P
 
 A lot or prep and research work on all my projects is freely available here in my Github repositories. 
 
-!(..images/Turbine_Legend - 2023-11-30 00.42.15.jpg)
+![Legend](https://github.com/medmatix/Garrett-Turbine-Legend-X-Plane-Model/blob/main/images/Turbine_Legend%20-%202023-11-29%201.19.44%20PM.png)https://github.com/medmatix/Garrett-Turbine-Legend-X-Plane-Model/blob/main/images/Turbine_Legend%20-%202023-11-29%201.19.44%20PM.png)
