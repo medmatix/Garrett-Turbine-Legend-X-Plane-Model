@@ -10,3 +10,5 @@ The flyable X-Plane versions for XP11 and XP12 both, are available on [X-Plane.o
 The static and printable models are available to my subscribing supporters on [Patreon](https://www.patreon.com/medmatix).
 
 A lot or prep and research work on all my projects is freely available here in my Github repositories. 
+
+![](images/Turbine_Legend - 2023-11-30 00.42.15.jpg)
