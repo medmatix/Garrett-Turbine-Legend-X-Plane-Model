@@ -11,4 +11,4 @@ The static and printable models are available to my subscribing supporters on [P
 
 A lot or prep and research work on all my projects is freely available here in my Github repositories. 
 
-![](images/Turbine_Legend - 2023-11-30 00.42.15.jpg)
+!(images/Turbine_Legend - 2023-11-30 00.42.15.jpg)
