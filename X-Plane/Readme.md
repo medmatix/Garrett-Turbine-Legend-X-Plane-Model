@@ -48,3 +48,5 @@ A static model version and a printable version have been created as well. Inquir
 ### Acknowledgements: ###
 
 Thanks to Beber for pilot (Bebers People Library), vezePilot for his permission to use his DigiFlight II gauge, and ksgy  for the engine parameters and @HoHun for extensive discussion and feedback.
+
+![](https://github.com/medmatix/Garrett-Turbine-Legend-X-Plane-Model/blob/main/images/Legend%20-%202023-11-25%2017.16.27.png)
